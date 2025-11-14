@@ -78,8 +78,8 @@ def evolve(pop: np.ndarray, generations: int):
 
 #Streamlit App
 # ---- Student Details----
-STUDENT_NAME = "AHMAD AFIQ HILMY BIN HAZA HILMY"
-STUDENT_ID = "SD23009"
+STUDENT_NAME = "NURFARAH ASYIQIN BINTI MD ADIM"
+STUDENT_ID = "SD23021"
 SECTION = "01G"
 
 # ---- Streamlit UI ----
